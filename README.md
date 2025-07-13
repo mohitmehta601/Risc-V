@@ -1,6 +1,6 @@
 # 🌱 AgriCure – Smart Fertilizer Recommendation System
 
-> 🚀 Built for COMSOC HACKX under the Open Innovation theme  
+> 🚀 Built for Code For Bharat Season 2 under the Open Innovation theme  
 > 👨‍💻 Team Leader: Mohit Mehta | 📧 g.mehta1971@gmail.com | 🏫 IIIT-Sonepat
 
 ---
