@@ -1,6 +1,6 @@
 # 🌱 AgriCure – Smart Fertilizer Recommendation System
 
-> 🚀 Built for Code For Bharat Season 2 under the Open Innovation theme  
+> 🚀 Built for Digital India RISC-V (DIR-V)-Grand Challenge under Ministry of Information Technology 
 > 👨‍💻 Team Leader: Mohit Mehta | 📧 g.mehta1971@gmail.com | 🏫 IIIT-Sonepat
 
 ---
